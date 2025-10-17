@@ -1,0 +1,2 @@
+Jānis Bērziņš
+4 gadi Python un Django pieredze, REST API, PostgreSQL, Docker, Jenkins. Angļu valoda B2.

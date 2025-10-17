@@ -1,0 +1,8 @@
+Python izstrādātājs (Senior)
+
+Prasības:
+- 3+ gadi pieredze ar Python un Django vai Flask
+- REST API un PostgreSQL pieredze
+- Docker un CI/CD zināšanas
+- Angļu valoda B2 līmenī
+- Agile/Scrum darba pieredze

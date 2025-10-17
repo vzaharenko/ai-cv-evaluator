@@ -1,0 +1,2 @@
+Pēteris Kalniņš
+6 gadi Java un Kotlin, tikai skriptu līmenī Python, nav Docker pieredzes.
