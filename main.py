@@ -1,1 +1,0 @@
-print('AI CV vērtētājs - Gemini Flash 2.5 + Python')
